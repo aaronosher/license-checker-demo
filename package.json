@@ -13,7 +13,6 @@
     "helmet": "^3.14.0",
     "named-regexp": "^0.1.1",
     "pg": "^7.5.0",
-    "query-string": "^6.2.0",
-    "http-live-simulator": "1.0.0"
+    "query-string": "^6.2.0"
   }
 }
